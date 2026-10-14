@@ -7,7 +7,7 @@ HTML
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>saad khochikar|</title>
-  <meta name="description" content="Personal portfolio website for Your Name" />
+  <meta name="description" content="saad khochikar" />
   <style>
     :root {
       --bg: #0f172a;
